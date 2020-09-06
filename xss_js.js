@@ -1,3 +1,7 @@
-<script>
-alert("Hacked");
-</script>
+<html>
+ <body>
+  <script>
+  alert("Hacked");
+  </script>
+</body>
+</html>
